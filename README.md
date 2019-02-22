@@ -9,7 +9,7 @@ For more details, take a look at [this guide](https://guides.github.com/activiti
 
  1. Fork this repository to your own account by clicking the button near the top-right of this page.
  
- 2. Clone that repository onto your local machine by running `git clone https://github.com/gw-acm/git-linux-2018.git` in the terminal
+ 2. Clone that repository onto your local machine by running `git clone https://github.com/<Your GitHub Username>/git-linux-2018.git` in the terminal
  
  3. Enter the project directory (`cd git-linux-2018`)
  
