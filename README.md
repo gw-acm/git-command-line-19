@@ -1,7 +1,7 @@
 # git-command-line-19
 
-This repository goes along with the [Git + Linux](http://acm.seas.gwu.edu/workshops.html) workshop.
-See our [Git cheatsheet/workflows](TODO) and our [Linux cheatsheet](TODO) for full syntax details and information.
+This repository goes along with the [Git + Command Line](http://acm.seas.gwu.edu/workshops.html) workshop.
+See our [Git cheatsheet/workflows](TODO) and our [Command Line cheatsheet](TODO) for full syntax details and information.
 
 ## How to fork this repository and submit a Pull Request (PR)
 For more details, take a look at [this guide](https://guides.github.com/activities/forking/)
