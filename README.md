@@ -1,5 +1,5 @@
 # git-command-line-19
-_Lead by @samsaranc, @melodyxlee, Jennifer Wright, Linnea Dierksheide, and Rishiraj Kanugo _
+_Lead by @samsaranc, @melodyxlee, Jennifer Wright, Linnea Dierksheide, and Rishiraj Kanugo_
 
 This repository goes along with the [Git + Command Line](http://acm.seas.gwu.edu/workshops.html) workshop.
 See our [Git cheatsheet/workflows](TODO) and our [Command Line cheatsheet](TODO) for full syntax details and information.
